@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "armed=true,hunter_set=false":  { "model": "manbear:block/bear_trap_open" },
+    "armed=true,hunter_set=true":   { "model": "manbear:block/bear_trap_open" },
+    "armed=false,hunter_set=false": { "model": "manbear:block/bear_trap_closed" },
+    "armed=false,hunter_set=true":  { "model": "manbear:block/bear_trap_closed" }
+  }
+}

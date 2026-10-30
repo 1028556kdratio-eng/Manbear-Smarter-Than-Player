@@ -1,0 +1,415 @@
+{
+  "growl": {
+    "subtitle": "subtitles.manbear.growl",
+    "sounds": [
+      {
+        "name": "minecraft:entity.polar_bear.ambient",
+        "type": "event",
+        "pitch": 0.55,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:entity.ravager.ambient",
+        "type": "event",
+        "pitch": 0.6,
+        "volume": 0.9
+      }
+    ]
+  },
+  "huff": {
+    "subtitle": "subtitles.manbear.huff",
+    "sounds": [
+      {
+        "name": "minecraft:entity.polar_bear.ambient",
+        "type": "event",
+        "pitch": 0.45,
+        "volume": 0.6
+      }
+    ]
+  },
+  "roar": {
+    "subtitle": "subtitles.manbear.roar",
+    "sounds": [
+      {
+        "name": "minecraft:entity.polar_bear.warning",
+        "type": "event",
+        "pitch": 0.5,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:entity.ravager.roar",
+        "type": "event",
+        "pitch": 0.75,
+        "volume": 1.0
+      }
+    ]
+  },
+  "snarl": {
+    "subtitle": "subtitles.manbear.snarl",
+    "sounds": [
+      {
+        "name": "minecraft:entity.polar_bear.warning",
+        "type": "event",
+        "pitch": 0.7,
+        "volume": 1.0
+      }
+    ]
+  },
+  "hurt": {
+    "subtitle": "subtitles.manbear.hurt",
+    "sounds": [
+      {
+        "name": "minecraft:entity.polar_bear.hurt",
+        "type": "event",
+        "pitch": 0.6,
+        "volume": 1.0
+      }
+    ]
+  },
+  "death": {
+    "subtitle": "subtitles.manbear.death",
+    "sounds": [
+      {
+        "name": "minecraft:entity.polar_bear.death",
+        "type": "event",
+        "pitch": 0.5,
+        "volume": 1.0
+      }
+    ]
+  },
+  "step": {
+    "subtitle": "subtitles.manbear.step",
+    "sounds": [
+      {
+        "name": "minecraft:entity.ravager.step",
+        "type": "event",
+        "pitch": 0.7,
+        "volume": 0.8
+      }
+    ]
+  },
+  "mimic_pig": {
+    "subtitle": "subtitles.manbear.mimic_pig",
+    "sounds": [
+      {
+        "name": "minecraft:entity.pig.ambient",
+        "type": "event",
+        "pitch": 0.35,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:entity.pig.ambient",
+        "type": "event",
+        "pitch": 0.55,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:entity.pig.hurt",
+        "type": "event",
+        "pitch": 0.3,
+        "volume": 1.0
+      }
+    ]
+  },
+  "mimic_cow": {
+    "subtitle": "subtitles.manbear.mimic_cow",
+    "sounds": [
+      {
+        "name": "minecraft:entity.cow.ambient",
+        "type": "event",
+        "pitch": 0.35,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:entity.cow.ambient",
+        "type": "event",
+        "pitch": 0.5,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:entity.cow.hurt",
+        "type": "event",
+        "pitch": 0.3,
+        "volume": 1.0
+      }
+    ]
+  },
+  "mimic_sheep": {
+    "subtitle": "subtitles.manbear.mimic_sheep",
+    "sounds": [
+      {
+        "name": "minecraft:entity.sheep.ambient",
+        "type": "event",
+        "pitch": 0.4,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:entity.sheep.ambient",
+        "type": "event",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:entity.sheep.hurt",
+        "type": "event",
+        "pitch": 0.35,
+        "volume": 1.0
+      }
+    ]
+  },
+  "thump": {
+    "subtitle": "subtitles.manbear.step",
+    "sounds": [
+      {
+        "name": "minecraft:entity.warden.step",
+        "type": "event",
+        "pitch": 0.75,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:entity.iron_golem.step",
+        "type": "event",
+        "pitch": 0.4,
+        "volume": 1.0
+      }
+    ]
+  },
+  "roar_deep": {
+    "subtitle": "subtitles.manbear.roar",
+    "sounds": [
+      {
+        "name": "minecraft:entity.warden.roar",
+        "type": "event",
+        "pitch": 0.5,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:entity.ravager.roar",
+        "type": "event",
+        "pitch": 0.5,
+        "volume": 1.0
+      }
+    ]
+  },
+  "snore": {
+    "subtitle": "subtitles.manbear.snore",
+    "sounds": [
+      {
+        "name": "minecraft:entity.polar_bear.ambient",
+        "type": "event",
+        "pitch": 0.3,
+        "volume": 0.9
+      },
+      {
+        "name": "minecraft:entity.ravager.ambient",
+        "type": "event",
+        "pitch": 0.35,
+        "volume": 0.8
+      }
+    ]
+  },
+  "twig_snap": {
+    "subtitle": "subtitles.manbear.twig",
+    "sounds": [
+      {
+        "name": "minecraft:block.bamboo.break",
+        "type": "event",
+        "pitch": 1.6,
+        "volume": 0.9
+      },
+      {
+        "name": "minecraft:block.wood.break",
+        "type": "event",
+        "pitch": 1.9,
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:block.scaffolding.break",
+        "type": "event",
+        "pitch": 1.4,
+        "volume": 0.7
+      }
+    ]
+  },
+  "tree_crack": {
+    "subtitle": "subtitles.manbear.tree",
+    "sounds": [
+      {
+        "name": "minecraft:block.wood.break",
+        "type": "event",
+        "pitch": 0.55,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:block.bamboo_wood.break",
+        "type": "event",
+        "pitch": 0.5,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:block.cherry_wood.break",
+        "type": "event",
+        "pitch": 0.5,
+        "volume": 1.0
+      }
+    ]
+  },
+  "tree_rustle": {
+    "subtitle": "subtitles.manbear.tree",
+    "sounds": [
+      {
+        "name": "minecraft:block.azalea_leaves.break",
+        "type": "event",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:block.grass.break",
+        "type": "event",
+        "pitch": 0.5,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:block.sweet_berry_bush.break",
+        "type": "event",
+        "pitch": 0.6,
+        "volume": 1.0
+      }
+    ]
+  },
+  "scream": {
+    "subtitle": "subtitles.manbear.scream",
+    "sounds": [
+      {
+        "name": "minecraft:entity.ghast.scream",
+        "type": "event",
+        "pitch": 1.7,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:entity.ghast.scream",
+        "type": "event",
+        "pitch": 2.0,
+        "volume": 0.9
+      },
+      {
+        "name": "minecraft:entity.villager.hurt",
+        "type": "event",
+        "pitch": 0.7,
+        "volume": 1.0
+      }
+    ]
+  },
+  "animal_death": {
+    "subtitle": "subtitles.manbear.animal",
+    "sounds": [
+      {
+        "name": "minecraft:entity.pig.death",
+        "type": "event",
+        "pitch": 0.9,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:entity.cow.death",
+        "type": "event",
+        "pitch": 0.9,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:entity.sheep.death",
+        "type": "event",
+        "pitch": 0.9,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:entity.chicken.death",
+        "type": "event",
+        "pitch": 0.8,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:entity.wolf.death",
+        "type": "event",
+        "pitch": 0.9,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:entity.horse.death",
+        "type": "event",
+        "pitch": 0.9,
+        "volume": 1.0
+      }
+    ]
+  },
+  "bird_chirp": {
+    "subtitle": "subtitles.manbear.bird",
+    "sounds": [
+      {
+        "name": "manbear:chirp1",
+        "volume": 1.0
+      },
+      {
+        "name": "manbear:chirp2",
+        "volume": 1.0
+      },
+      {
+        "name": "manbear:chirp3",
+        "volume": 1.0
+      },
+      {
+        "name": "manbear:chirp4",
+        "volume": 1.0
+      },
+      {
+        "name": "manbear:chirp5",
+        "volume": 1.0
+      }
+    ]
+  },
+  "chase_scream": {
+    "subtitle": "subtitles.manbear.scream_chase",
+    "sounds": [
+      {
+        "name": "minecraft:entity.ghast.scream",
+        "type": "event",
+        "pitch": 0.55,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:entity.enderman.scream",
+        "type": "event",
+        "pitch": 0.5,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:entity.ravager.roar",
+        "type": "event",
+        "pitch": 1.2,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:entity.polar_bear.warning",
+        "type": "event",
+        "pitch": 1.05,
+        "volume": 1.0
+      }
+    ]
+  },
+  "pit_crunch": {
+    "subtitle": "subtitles.manbear.crunch",
+    "sounds": [
+      {
+        "name": "minecraft:block.gravel.break",
+        "type": "event",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:block.grass.break",
+        "type": "event",
+        "pitch": 0.5,
+        "volume": 1.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=north,fading=false": {
+      "model": "manbear:block/footprint"
+    },
+    "facing=north,fading=true": {
+      "model": "manbear:block/footprint"
+    },
+    "facing=east,fading=false": {
+      "model": "manbear:block/footprint",
+      "y": 90
+    },
+    "facing=east,fading=true": {
+      "model": "manbear:block/footprint",
+      "y": 90
+    },
+    "facing=south,fading=false": {
+      "model": "manbear:block/footprint",
+      "y": 180
+    },
+    "facing=south,fading=true": {
+      "model": "manbear:block/footprint",
+      "y": 180
+    },
+    "facing=west,fading=false": {
+      "model": "manbear:block/footprint",
+      "y": 270
+    },
+    "facing=west,fading=true": {
+      "model": "manbear:block/footprint",
+      "y": 270
+    }
+  }
+}
